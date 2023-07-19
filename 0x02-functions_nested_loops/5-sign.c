@@ -26,5 +26,5 @@ int print_sign(int n)
 	}
 
 	/* Add a return statement to handle any other cases */
-	return 0;
+	return (0);
 }
